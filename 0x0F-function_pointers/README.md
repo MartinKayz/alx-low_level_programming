@@ -1,3 +1,1 @@
-# Function Pointers
-
-Bye
+#0x0F. C - Function pointers
